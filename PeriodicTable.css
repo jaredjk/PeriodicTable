@@ -1,0 +1,139 @@
+#wrapper{
+    width: 1300px;
+    height: 700px;
+    display: inline-block;
+    padding: 10px;
+    background-color:#EEEEEE;
+}
+#leftcol{
+    display: inline-block;
+    height: 450px;
+    width: 200px;
+    font-size: 10px;
+    vertical-align: top;
+    
+}
+
+#rightcol{
+    display: inline-block;
+    height: 450px;
+    width: 850px;
+    vertical-align: top;
+    font-size: 10px;
+}
+
+#bottomcol{
+    display: inline-block;
+    height: 200px;
+    width: 1000px;
+    font-size: 10px;
+    margin-left: 55px;
+}
+
+.blubox{
+    height: 48px;
+    width: 48px;
+    border: 1px solid;
+    background-color: #689BFF;
+    display: inline-block;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 2px;
+    
+}
+.redbox{
+    height: 48px;
+    width: 48px;
+    border: 1px solid;
+    background-color: #FD9A98;
+    display: inline-block;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 2px;
+    
+}
+
+.yelbox{
+    height: 48px;
+    width: 48px;
+    border: 1px solid;
+    background-color: #FECB00;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 2px;
+    
+}
+
+.grebox{
+    height: 48px;
+    width: 48px;
+    border: 1px solid;
+    background-color: #1FCA21;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 2px;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 2px;
+    
+}
+.empbox{
+    height: 40px;
+    width: 50px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    padding-top:10px;
+}
+.empbox2{
+    display: inline-block;
+    height: 40px;
+    width: 785px;
+    vertical-align: top; 
+    padding-top:10px;  
+}
+.empbox3{
+    display: inline-block;
+    height: 40px;
+    width: 523px;
+    vertical-align: top;
+    padding-top:10px;
+}
+.empbox4{
+    display: inline-block;
+    height: 40px;
+    width: 145px;
+    vertical-align: top;
+    padding-top:10px;
+}
+
+.element{
+    font-size: 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: block;
+    color: #210EA5;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.tabletext{
+    color: red;
+    font-size: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.tabletext2{
+    text-align: right;
+    color: red;
+    font-size: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 80px;
+}
+.tabletext3{
+    text-align: right;
+    color: red;
+    font-size: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 90px;
+}
